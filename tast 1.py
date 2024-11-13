@@ -57,4 +57,4 @@ if 'd' not in selected_items and has_infection:
 print("Ивентарь:")
 for row in inventory:
     print(row)
-print(f"Итоговые очки выживания: {survival_matrix[len(items)][max_capacity]}")...
+print(f"Итоговые очки выживания: {survival_matrix[len(items)][max_capacity]}")
