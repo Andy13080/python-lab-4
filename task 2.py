@@ -39,4 +39,4 @@ for i, (combo, points) in enumerate(valid_combinations, 1):
     print(f"Комбинация {i}: " f"{combo}," f" Очки выживания: {points}")
 
 
-print(f"Всего возможных комбинаций: {len(valid_combinations)}"
+print(f"Всего возможных комбинаций: {len(valid_combinations)}")
